@@ -1,10 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Marco Occhialini</h1>
+<<h1 align="center">Hi 👋, I'm Marco Occhialini</h1>
 <h3 align="center">A Quantitative Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=occhima&label=Profile%20views&color=0e75b6&style=flat" alt="occhima" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=occhima" alt="occhima" /></a> </p>
 
 - 🔭 I’m currently working on **Semantix**
 
@@ -20,5 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=occhima&show_icons=true&locale=en" alt="occhima" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=occhima&" alt="occhima" /></p>
 
