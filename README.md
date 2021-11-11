@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ray-x&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Occhima&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc" />
 </p>
 
 **Languages and Tools:**
@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ray-x/ray-x/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Occhima/Occhima/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!---
