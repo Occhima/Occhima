@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Marco!
 
-I am a software engineer at [Itaú BBA](https://elucidata.io/), specializing in complex problem-solving in finance.
+I am a software engineer at Itaú BBA, specializing in complex problem-solving in finance.
 
 - 🌱 I’m currently enrolled in a Master's program in Statistics and Data Science, deepening my expertise in finance.
 - 👯 I’m looking to collaborate on projects involving Bayesian applications and machine learning in finance.
